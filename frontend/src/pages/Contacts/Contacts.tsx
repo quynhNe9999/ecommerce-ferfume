@@ -22,7 +22,7 @@ const Contacts: FC = (): ReactElement => {
                     </div>
                     <div>
                         <Typography.Text strong>{"E-mail: "}</Typography.Text>
-                        <Typography.Text>merikbest2015@gmail.com</Typography.Text>
+                        <Typography.Text>tdquynh09@gmail.com</Typography.Text>
                     </div>
                     <div style={{ marginTop: 16 }}>
                         <Typography.Text strong>Working time</Typography.Text>
