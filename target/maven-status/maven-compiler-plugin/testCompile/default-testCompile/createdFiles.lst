@@ -1,0 +1,17 @@
+com\gmail\merikbest2015\ecommerce\mapper\PerfumeMapperTest.class
+com\gmail\merikbest2015\ecommerce\service\Impl\ReviewServiceImplTest.class
+com\gmail\merikbest2015\ecommerce\service\Impl\OrderServiceImplTest.class
+com\gmail\merikbest2015\ecommerce\controller\UserControllerTest.class
+com\gmail\merikbest2015\ecommerce\service\Impl\PerfumeServiceImplTest.class
+com\gmail\merikbest2015\ecommerce\mapper\UserMapperTest.class
+com\gmail\merikbest2015\ecommerce\controller\ReviewControllerTest.class
+com\gmail\merikbest2015\ecommerce\util\TestConstants.class
+com\gmail\merikbest2015\ecommerce\service\Impl\AuthenticationServiceImplTest.class
+com\gmail\merikbest2015\ecommerce\mapper\OrderMapperTest.class
+com\gmail\merikbest2015\ecommerce\service\Impl\UserServiceImlTest.class
+com\gmail\merikbest2015\ecommerce\EcommerceApplicationTests.class
+com\gmail\merikbest2015\ecommerce\controller\PerfumeControllerTest.class
+com\gmail\merikbest2015\ecommerce\controller\RegistrationControllerTest.class
+com\gmail\merikbest2015\ecommerce\controller\AuthenticationControllerTest.class
+com\gmail\merikbest2015\ecommerce\controller\AdminControllerTest.class
+com\gmail\merikbest2015\ecommerce\controller\OrderControllerTest.class
